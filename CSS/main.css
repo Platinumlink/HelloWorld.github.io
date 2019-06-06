@@ -1,0 +1,23 @@
+header {
+	background-color: green;
+	border: 2px solid black;
+	margin-bottom: 5px;
+}
+
+h1 {
+	color: white;
+	font-size: 36;
+}
+
+.paragraph {
+	color: white;
+	background-color: green;
+}
+
+body {
+	background-color: #90EE90;
+}
+
+* {
+	text-align: center;
+}
